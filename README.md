@@ -1,21 +1,6 @@
 
 Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
 * run bundle install in terminal and rails db:migrate command in rails console inside directory
+* run this on port 3000 and frontend on port 3001
   
